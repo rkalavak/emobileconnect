@@ -9,5 +9,4 @@ public class EmobileconnectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmobileconnectApplication.class, args);
 	}
-
 }
