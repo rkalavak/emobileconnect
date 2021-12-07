@@ -4,8 +4,8 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.hcl.emobileconnect.dao.CustomerRepo;
 import com.hcl.emobileconnect.json.CustomerJson;
+import com.hcl.emobileconnect.repo.CustomerRepo;
 
 import lombok.RequiredArgsConstructor;
 
